@@ -18,7 +18,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
 * Mengetahui apa itu gerbang logika dan jenis-jenisnya seperti AND, OR, NOT, NAND, NOR, XOR, dan XNOR.
 * Mengetahui cara penyelesaian masalah menggunakan metode computational thinking meliputi, dekomposisi, pengenalan pola, abstraksi, penulisan algoritma, dan evaluasi.
 
-15 Februari 2023
+**16 Februari 2023**
 Belajar Dasar GIT dengan GitHub. (Progres 38%)
 
 * Mengenal perintah-perintah dan fungsi yang ada di GitHub.
